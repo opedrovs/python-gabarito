@@ -1,3 +1,4 @@
+from paleta import *
 from lib.menu import *
 from lib.ferramentas import *
 
